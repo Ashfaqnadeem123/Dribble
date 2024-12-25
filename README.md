@@ -265,7 +265,7 @@ footer {
 ```
 
 ## OUTPUT:
-![Image](https://github.com/user-attachments/assets/4f9ec08e-e004-41b4-9679-d2a8da2e28fb)
+![Screenshot 2024-12-25 122715](https://github.com/user-attachments/assets/6a70b97e-a9a4-4fb8-b0ad-dd08f9498982)
 
 
 ## RESULT:
